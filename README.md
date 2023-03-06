@@ -19,16 +19,10 @@ php artisan generate:key
 php artisan serve
 ```
 
-## Project Setup
+## unit test
 
-```sh
-npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+php artisan test
 ```
 
 ## frontend
