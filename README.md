@@ -1,1 +1,19 @@
-"# Fullstack-Laravel-and-vue-js" 
+"# Fullstack-Laravel-and-vue-js"
+
+## frontend
+
+```
+cd users-departments_frontend
+```
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
