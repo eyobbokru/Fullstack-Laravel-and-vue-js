@@ -25,13 +25,12 @@
 
         <!-- LOGO -->
         <div class="logo-box">
+
+          
             <a href="/" class="logo logo-light">
-                <span class="logo-lg">
-                    <img src="../assets/images/logo-light.png" alt="" height="16">
-                </span>
-                <span class="logo-sm">
-                    <img src="../assets/images/logo-sm.png" alt="" height="24">
-                </span>
+                <h3 class="mt-3"  height="16" >User Logo</h3>
+              
+                
             </a>
            
             

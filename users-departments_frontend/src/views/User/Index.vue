@@ -76,7 +76,7 @@ onMounted(getUsers)
                                 <router-link :to="{ name: 'users.show', params: { id: item.id } }" class="btn btn-icon waves-effect waves-light btn-warning m-1" href=""> show</router-link>
                                 <router-link :to="{ name: 'users.edit', params: { id: item.id } }" class="btn btn-icon waves-effect waves-light btn-primary m-1" href=""> edit</router-link>
                                   
-                                    <button  @click="deleteUser(item.id)" class="btn btn-icon waves-effect waves-light btn-danger show_confirm" data-toggle="tooltip"> <i class="fas fa-times"></i> delete</button>
+                                    <button  @click="deleteUser(item.id)" class="btn btn-icon waves-effect waves-light btn-danger show_confirm" data-toggle="tooltip">  delete</button>
                                
                             </td>
                            
