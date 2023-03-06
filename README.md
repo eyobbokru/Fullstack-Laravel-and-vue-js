@@ -17,7 +17,7 @@ create the database and config user name and password
 
 ```
 php artisan migrate
-php artisan generate:key
+php artisan key:generate
 php artisan serve
 ```
 
