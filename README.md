@@ -9,9 +9,11 @@ composer install
 
 cp .env.example .env
 
+create the database and config user name and password
+
 ```
 
-### config database
+### cont.
 
 ```
 php artisan migrate
