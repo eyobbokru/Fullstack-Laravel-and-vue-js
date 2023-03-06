@@ -3,6 +3,7 @@
 ## backend
 
 ```
+git clone https://github.com/eyobbokru/Fullstack-Laravel-and-vue-js.git
 cd users-departments_backend
 
 composer install
