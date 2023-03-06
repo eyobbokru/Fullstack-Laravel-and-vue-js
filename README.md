@@ -1,9 +1,10 @@
-"# Fullstack-Laravel-and-vue-js"
+Fullstack Laravel and vue js, that allows users to view and manage the list of users and their associated departments.
 
 ## backend
 
 ```
 git clone https://github.com/eyobbokru/Fullstack-Laravel-and-vue-js.git
+
 cd users-departments_backend
 
 composer install
@@ -22,7 +23,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-## unit test
+### unit test
 
 ```
 php artisan test
@@ -57,11 +58,11 @@ UserDepartmentTest
 
 ## frontend
 
-```
+```sh
 cd users-departments_frontend
 ```
 
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
