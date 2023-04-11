@@ -5,6 +5,8 @@ Fullstack Laravel and vue js, that allows users to view and manage the list of u
 ```
 git clone https://github.com/eyobbokru/Fullstack-Laravel-and-vue-js.git
 
+cd Fullstack-Laravel-and-vue-js
+
 cd users-departments_backend
 
 composer install
